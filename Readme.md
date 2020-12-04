@@ -30,7 +30,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 ## Author
 
-- [Ishaan Ohri](https://github.com/IshaanOhri)
+- [Shaurya Choudhary](https://github.com/IshaanOhri)
 
 ## Tech Stacks / Tools used
 
@@ -48,7 +48,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="mailto:ishaan99ohri@gmail.com">
+  <a href="mailto:shaurya.src@gmail.com">
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mail.png" width="30" height="30" hspace="20">
   </a>
 
