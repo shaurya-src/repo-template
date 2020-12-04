@@ -26,7 +26,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## License
 
-The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/GitHub-Pages/blob/main/LICENSE) for more information.
+The project is distributed under the MIT License. See [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more information.
 
 ## Author
 
@@ -36,31 +36,32 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 <p>
 <p>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=10>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" height=40 hspace=10>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tensorflow.svg" height=40 hspace=10>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" height=40 hspace=10>
 </p>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishaanohri/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
+  <a href="https://www.linkedin.com/in/shaurya-src/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" hspace="20">
   </a>
 
   <a href="mailto:shaurya.src@gmail.com">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mail.png" width="30" height="30" hspace="20">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://stackoverflow.com/users/11712463/ishaan-ohri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/stackoverflow.png" width="30" height="30" hspace="20">
+  <a href="https://twitter.com/shaurya_src">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/ohri_8/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
+  <a href="https://www.instagram.com/shaurya_src/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
+  <a href="https://github.com/shaurya-src">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="30" height="30" hspace="20">
   </a>
 </p>
