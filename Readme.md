@@ -1,5 +1,5 @@
 <code>
-  <h1 align="center">Publish website on GitHub Pages</h1>
+  <h1 align="center">Repository Template</h1>
 </code>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  Publishing a simple website on GitHub Pages with a custom domain
+  A generic template for Python repositories.
 </p>
 
 ## Contributing
