@@ -30,7 +30,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 ## Author
 
-- [Shaurya Choudhary](https://github.com/IshaanOhri)
+- [Shaurya Choudhary](https://github.com/shaurya-src)
 
 ## Tech Stacks / Tools used
 
