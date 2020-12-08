@@ -338,13 +338,14 @@ github "shoheiyokoyama/Gemini"
 
 ## <a name="author"> Author
 
-Shohei Yokoyama
+`Shaurya Choudhary`
 
 - [GitHub](https://github.com/shoheiyokoyama)
-- [Facebook](https://www.facebook.com/shohei.yokoyama.96)
-- [Twitter](https://twitter.com/shoheiyokoyam)
-- Gmail: shohei.yok0602@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/shaurya-src/)
+- [Instagram](https://www.instagram.com/shaurya_src/)
+- [Twitter](https://twitter.com/shaurya_src)
+- Gmail: shaurya.src@gmail.com
 
 ## License
 
-Gemini is available under the MIT license. See the [LICENSE file](https://github.com/shoheiyokoyama/Gemini/blob/master/LICENSE) for more info.
+*Project* is available under the MIT license. See the [LICENSE file](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
