@@ -338,7 +338,9 @@ github "shoheiyokoyama/Gemini"
 
 ## <a name="author"> Author
 
-`Shaurya Choudhary`
+```python
+# Shaurya Choudhary
+```
 
 - [GitHub](https://github.com/shoheiyokoyama)
 - [LinkedIn](https://www.linkedin.com/in/shaurya-src/)
