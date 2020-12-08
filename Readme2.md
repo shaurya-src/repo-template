@@ -346,8 +346,8 @@ github "shoheiyokoyama/Gemini"
 - [LinkedIn](https://www.linkedin.com/in/shaurya-src/)
 - [Instagram](https://www.instagram.com/shaurya_src/)
 - [Twitter](https://twitter.com/shaurya_src)
-- Gmail: shaurya.src@gmail.com
+- [Mail](mailto:shaurya.src@gmail.com)
 
 ## License
 
-*Project* is available under the MIT license. See the [LICENSE file](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
