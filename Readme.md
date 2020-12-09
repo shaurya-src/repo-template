@@ -1,5 +1,5 @@
 <p align="center">
-  <d" width="500">
+  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
 </p>
 
 # Overview
