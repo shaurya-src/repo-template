@@ -1,25 +1,27 @@
 <p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
+  <d" width="500">
 </p>
 
 # Overview
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left">
 
-## What is the `Gemini`?
+## What is the `Project`?
 
-`Gemini` is rich scroll based animation framework for iOS, written in Swift. You can easily use `GeminiCollectionView`, which is a subclass of `UICollectionView`.
+`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
+amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
+Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
+hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
+pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
 
-It enables you to make multiple animation which has various and customizable properties, and moreover can create your own custom scroll animation. 
+```python
+def main()
+    text = "Hello World!"
+    return text
 
-`Gemini` also provides a fluent interface based on method chaining. you can use this intuitively and simply.
-
-
-```swift
-collectionView.gemini
-    .circleRotationAnimation()
-    .radius(400)
-    .rotateDirection(.clockwise)
+if __name__ == '__main__':
+    text = main()
+    print(text)
 ```
 
 # Features
