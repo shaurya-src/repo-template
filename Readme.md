@@ -122,11 +122,13 @@ Any contributions you make are **greatly appreciated**.
 # Shaurya Choudhary
 ```
 
+<!---
 - [Gmail](mailto:shaurya.src@gmail.com)
 - [GitHub](https://github.com/shoheiyokoyama)
 - [LinkedIn](https://www.linkedin.com/in/shaurya-src/)
 - [Instagram](https://www.instagram.com/shaurya_src/)
 - [Twitter](https://twitter.com/shaurya_src)
+-->
 
 <p align="center">
   <a href="mailto:shaurya.src@gmail.com">
