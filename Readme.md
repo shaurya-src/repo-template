@@ -123,11 +123,15 @@ Any contributions you make are **greatly appreciated**.
 *Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
-
+<!---
 ```python
 # Shaurya Choudhary
 ```
+-->
 
+<p align="center">
+  <code> Shaurya Choudhary </code>
+</p>
 <!---
 - [Gmail](mailto:shaurya.src@gmail.com)
 - [GitHub](https://github.com/shoheiyokoyama)
