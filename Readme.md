@@ -50,6 +50,7 @@ if __name__ == '__main__':
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Contribute](#contri)
 - [License](#license)
 - [Author](#author)
 
