@@ -51,6 +51,7 @@ if __name__ == '__main__':
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contribute](#contri)
+- [Tech Stacks](#tech)
 - [License](#license)
 - [Author](#author)
 
@@ -110,6 +111,9 @@ Any contributions you make are **greatly appreciated**.
 3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
+
+## <a name="tech"> Tech Stacks/Tools Used
+pass
 
 ## <a name="license"> License
 
