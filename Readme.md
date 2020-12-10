@@ -37,64 +37,49 @@ if __name__ == '__main__':
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
 
-- [x] Rich animation with scrolling
-- [x] Easily usable
-- [x] Highly customizable
-- [x] Several types of animations and properties
-- [x] Supports vertical and horizontal flow layout
-- [x] Supports easing function
-- [x] Supports `Swift5.0`
-- [x] Fluent interfaces based on method chaining
-- [x] Compatible with `Carthage`
-- [x] Compatible with `CocoaPods`
-- [x] Example project with lots of stock animations
-- [x] And More...
+- [x] Lorem ipsum dolor sit amet
+- [x] Lorem ipsum dolor sit amet
+- [x] Lorem ipsum dolor sit amet
+- [x] Lorem ipsum dolor sit amet
+- [x] Lorem ipsum dolor sit amet
+- [x] *And More...*
 
 # Contents
 
-- [Animation Types and properties](#anmation-types)
+- [Project Details](#project-info)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [License](#license)
 - [Author](#author)
 
-# <a name="anmation-types"> Animation Types and properties
+# <a name="project-info"> Project Details
 
-The following animation types are available. See sample code [here](https://github.com/shoheiyokoyama/Gemini/tree/master/Example/Gemini) for details.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
+amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
+Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
+hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
+pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
 
-- [Cube](#cube)
-- [Circle Rotation](#circle-rotation) You can configure direction of rotation using the `CircleRotationDirection`
-- [3D vector rotation](#3d-vector-rotation) Each rotation types provide multiple rotation effect
-  - [Roll Rotation](#roll-rotation)
-  - [Pitch Rotation](#pitch-rotation)
-  - [Yaw Rotation](#yaw-rotation)
-- [Scale](#scale)
-- [Custom](#custom) You can create your own custom scroll animation using multiple properties, rotation, scale, translation, etc.
+In addition, you can also customize the following properties according to the need.
 
-In addition, you can also customize the following properties for the above animation types.
-
-- BackgroundColor
-- CornerRadius
-- Alpha
-- [Easings](#easing-function)
-- [Shadow Effect](#shadow-effect)
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
 
 # <a name="usage"> Usage
 
-1. ***Use Gemini classes***
+1. ***Lorem Ipsum***
 
-`Gemini` is designed to be easy to use. Use `GeminiCollectionView` and `GeminiCell`. These classes is subclass of `UICollectionView`, `UICollectionViewCell`.
+`Project` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-2. ***Configure animation***
+2. ***Lorem Ipsum***
 
-Configure animation with fluent interface based on method chaining. You can develop expressive code that enhances readability.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-3. ***Call function for animation***
+3. ***Lorem Ipsum***
 
-Finally, call `animateVisibleCells()` in `scrollViewDidScroll(_:)`
-
-> NOTE: If you want to adapt animation immediately after view is displayed, call `animateCell(_:)` in `collectionView(_:cellForItemAt:)` and `collectionView(_:willDisplay:forItemAt:)`.
+Finally, call `func(arg)` in `main()`
 
 ```python
 def func(arg):
@@ -109,6 +94,13 @@ func(input())
 - Swift 5.0
 
 ## <a name="installation"> Installation
+
+Follow these steps to use *this project*.
+
+1. Clone the repository.
+2. Lorem ipsum
+
+## <a name="contri"> Contribute
 
 Any contributions you make are **greatly appreciated**.
 
@@ -139,6 +131,8 @@ Any contributions you make are **greatly appreciated**.
 - [Instagram](https://www.instagram.com/shaurya_src/)
 - [Twitter](https://twitter.com/shaurya_src)
 -->
+
+<br>
 
 <p align="center">
   <a href="mailto:shaurya.src@gmail.com">
