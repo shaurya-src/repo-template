@@ -51,10 +51,12 @@ if __name__ == '__main__':
 - [x] And More...
 
 # Contents
+
 - [Animation Types and properties](#anmation-types)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [License](#license)
 - [Author](#author)
 
 # <a name="anmation-types"> Animation Types and properties
@@ -116,6 +118,10 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
+## <a name="license"> License
+
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
+
 ## <a name="author"> Author
 
 ```python
@@ -151,7 +157,3 @@ Any contributions you make are **greatly appreciated**.
     <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/twitter.svg" width="30" height="30" hspace="20">
   </a>
 </p>
-
-## License
-
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
