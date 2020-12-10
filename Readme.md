@@ -120,7 +120,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 
