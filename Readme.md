@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Snaps/Repo%20Main%20copy.png" width="500">
+  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
 </p>
 
 # Overview
