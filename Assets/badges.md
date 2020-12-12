@@ -26,7 +26,11 @@
 
 - Keras: https://img.shields.io/badge/Library-Keras-success?style=flat-square&logo=Keras&logoColor=white
 
-- 
+- Django: https://img.shields.io/badge/Library-Django-success?style=flat-square&logo=DJango&logoColor=white&color=orange
+
+- Selenium: https://img.shields.io/badge/Library-Selemium-success?style=flat-square&logo=Sellfy&logoColor=white
+
+- Matplotlib: https://img.shields.io/badge/Library-Matplotlib-success?style=flat-square&logo=GraphQL&logoColor=white&color=purple
 
 -->
 
@@ -37,5 +41,9 @@
 - Ubuntu: https://img.shields.io/badge/Linux-Ubuntu-success?style=flat-square&logo=Ubuntu&logoColor=white
 
 - Kali: https://img.shields.io/badge/Linux-Kali-success?style=flat-square&logo=Arch-Linux&logoColor=white
+
+- PyCharm: https://img.shields.io/badge/Editor-PyCharm-success?style=flat-square&logo=PyCharm&logoColor=white&color=blue
+
+- VSC: https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue
 
 -->
