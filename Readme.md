@@ -30,7 +30,7 @@ if __name__ == '__main__':
 ![License](https://img.shields.io/github/license/shaurya-src/Web-Automation?logo=GitLab&style=flat-square)
 ![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square)
 
-<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
+<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
 - [x] Lorem ipsum dolor sit amet
 - [x] Lorem ipsum dolor sit amet
@@ -181,6 +181,12 @@ Any contributions you make are **greatly appreciated**.
 - Python3.x: https://img.shields.io/badge/Python-3.x-success?style=flat-square&logo=Python&logoColor=white 
 
 - Jupyter Notebook: https://img.shields.io/badge/Notebook-Jupyter-success?style=flat-square&logo=Jupyter&logoColor=white 
+
+- HTML: https://img.shields.io/badge/Language-HTML-success?style=flat-square&logo=HTML5&logoColor=white&color=purple
+
+- CSS: https://img.shields.io/badge/Language-CSS-success?style=flat-square&logo=CSS3&logoColor=white&color=purple
+
+- JavaScript: https://img.shields.io/badge/Language-JavaScript-success?style=flat-square&logo=JavaScript&logoColor=white&color=purple
 
 -->
 
