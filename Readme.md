@@ -1,6 +1,11 @@
-<p align="center">
+<code>
+  <h1 align="center">Project Title </h1>
+</code>
+
+<!-- For logo -->
+<!-- <p align="center">
   <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
-</p>
+</p> -->
 
 # Overview
 
